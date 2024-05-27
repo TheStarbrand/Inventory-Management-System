@@ -1,0 +1,33 @@
+as a user, i can view all inventories and search for items in the inventory by name
+
+-----------------------------------------------------------------------------------------------------------------
+
+main scenario:
+precondition:
+1. user is on the "inventories" page
+
+postcondition:
+2. user can see all inventories that match the serach condition
+
+detailed steps:
+--> user enters a few letters in the search bar
+--> user clicks the search button
+
+-----------------------------------------------------------------------------------------------------------------
+
+alt scenario 1:
+precondition:
+same as main scenario
+
+postcondition:
+1. user can see all the inventory items
+
+detailed steps:
+--> user keeps the serach bar empty
+--> user clicks the search button
+
+-----------------------------------------------------------------------------------------------------------------
+
+alt scenario 2:
+detailed steps:
+--> user presses the enter key

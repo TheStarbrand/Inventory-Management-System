@@ -1,0 +1,1 @@
+this is an inventory management project that aims at using .net technologies, blazor, c#, sql server, and the clean architecture to develop a web based product

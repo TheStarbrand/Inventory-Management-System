@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="docs and notes clean architecture\Controllers%28notes%29\" />
+    <Folder Include="docs and notes clean architecture\external layer notes\" />
+  </ItemGroup>
+
+</Project>
